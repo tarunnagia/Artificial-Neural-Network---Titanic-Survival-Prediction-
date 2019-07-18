@@ -1,0 +1,2 @@
+# Artificial-Neural-Network---Titanic-Survival-Prediction-
+Most Welcome if you are here for basic concepts of ANN  This project simply takes the input from the user and predicts whether the user could survive if he was in titanic. At first the prediction model with 84% accuracy was made using ANN(Artificial Neural Network)  after that saved ANN model was loaded in another piece of code to make prediction.
