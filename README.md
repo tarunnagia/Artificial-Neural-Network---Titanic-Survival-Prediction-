@@ -1,4 +1,4 @@
-# Artificial-Neural-Network---Titanic-Survival-Prediction-
+# Artificial Neural Network---Titanic Survival Prediction 
 Most Welcome if you are here for basic concepts of ANN 
 
 
