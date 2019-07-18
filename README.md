@@ -15,7 +15,7 @@ This project simply takes the input from the user and predicts whether the user 
 
 
 
-At first the prediction model with 84% accuracy was made using ANN(Artificial Neural Network).
+At first the prediction model with 84% accuracy was created using ANN(Artificial Neural Network).
 
 
 
